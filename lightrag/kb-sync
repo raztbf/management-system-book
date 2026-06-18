@@ -1,0 +1,103 @@
+#!/usr/bin/env bash
+# kb-sync — vede ce scrieri noi exista, face research academic (Consensus, headless),
+# apoi ingereaza tot ce e nou in graful LightRAG. Manual, rulat de Razvan cand vrea.
+#
+# Flux:
+#   0. detecteaza scrierile noi din content/raw (cele neingerate inca, dupa manifest.json)
+#   1. research headless: claude -p cu Consensus MCP -> creeaza paper-uri noi in content/papers/
+#   2. ingestie incrementala: scrierile noi + paper-urile noi intra in graf
+#
+# Folosire:
+#   kb-sync                # flux complet (research + ingestie)
+#   kb-sync --dry-run    # arata doar ce e nou, nu face nimic
+#   kb-sync --skip-research   # doar ingestie, fara research (fallback)
+set -euo pipefail
+
+ROOT="/Users/raztbf/Work/1-tbf-knowledge"
+KB="$ROOT/lightrag"
+PY="$KB/.venv/bin/python"
+LOGDIR="$KB/logs"
+mkdir -p "$LOGDIR"
+
+DRY=0; SKIP_RESEARCH=0
+for a in "$@"; do
+  case "$a" in
+    --dry-run) DRY=1 ;;
+    --skip-research) SKIP_RESEARCH=1 ;;
+    -h|--help) sed -n '2,16p' "$0"; exit 0 ;;
+    *) echo "Argument necunoscut: $a" >&2; exit 2 ;;
+  esac
+done
+
+# --- Etapa 0: scrieri noi (in content/raw, care nu-s inca in manifest = neingerate) ---
+NEW="$("$PY" - <<'PYEOF'
+import json, os
+ROOT = "/Users/raztbf/Work/1-tbf-knowledge"
+CONTENT = os.path.join(ROOT, "content")
+KB = os.path.join(ROOT, "lightrag")
+
+# "Rezolvat" = in manifest (ingerat cu succes) SAU deja cunoscut de LightRAG in doc_status
+# (orice status, inclusiv duplicate/failed) — ca sa nu reciclam la nesfarsit duplicatele.
+seen = set()
+mf = os.path.join(KB, "manifest.json")
+if os.path.exists(mf):
+    seen = set(json.load(open(mf)).keys())  # relpaths: raw/...
+known_basenames = set()
+ds = os.path.join(KB, "rag_storage", "kv_store_doc_status.json")
+if os.path.exists(ds):
+    known_basenames = {v.get("file_path") for v in json.load(open(ds)).values()}
+
+out = []
+for dp, _, ns in os.walk(os.path.join(CONTENT, "raw")):
+    for n in ns:
+        if n.endswith(".md"):
+            rel = os.path.relpath(os.path.join(dp, n), CONTENT)
+            if rel not in seen and n not in known_basenames:
+                out.append(rel)
+print("\n".join(sorted(out)))
+PYEOF
+)"
+
+if [ -z "$NEW" ]; then
+  echo "Nimic nou de procesat. Baza e la zi."
+  exit 0
+fi
+
+COUNT="$(printf '%s\n' "$NEW" | grep -c . || true)"
+echo "Scrieri noi detectate: $COUNT"
+printf '%s\n' "$NEW" | sed 's/^/  - /'
+
+if [ "$DRY" = 1 ]; then
+  echo "(dry-run: ma opresc aici)"
+  exit 0
+fi
+
+TS="$(date +%Y%m%d-%H%M%S)"
+
+# --- Etapa 1: research headless (Consensus) ---
+if [ "$SKIP_RESEARCH" = 0 ]; then
+  echo ""
+  echo "=== Etapa 1: research academic (Consensus, headless) — poate dura cateva minute ==="
+  PROMPT="$(cat "$KB/research_prompt.md")
+$(printf '%s\n' "$NEW" | sed 's#^#- content/#')"
+  cd "$ROOT"
+  if printf '%s' "$PROMPT" | claude -p \
+        --allowedTools "mcp__consensus__search Read Grep Glob Write Edit" \
+        --permission-mode acceptEdits \
+        2>&1 | tee "$LOGDIR/research-$TS.log"; then
+    echo "(research terminat — vezi $LOGDIR/research-$TS.log)"
+  else
+    echo "AVERTISMENT: research-ul a esuat sau a fost intrerupt. Continui cu ingestia a ce exista." >&2
+  fi
+else
+  echo "(--skip-research: sar research-ul)"
+fi
+
+# --- Etapa 2: ingestie incrementala (scrieri noi + paper-uri noi) ---
+echo ""
+echo "=== Etapa 2: ingestie in LightRAG ==="
+cd "$KB"
+"$PY" ingest.py --dirs raw papers 2>&1 | tee "$LOGDIR/ingest-$TS.log" | grep -vE "^(INFO|DEBUG|WARNING):" || true
+
+echo ""
+echo "=== Gata. Loguri: research-$TS.log si ingest-$TS.log in $LOGDIR ==="

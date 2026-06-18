@@ -1,0 +1,20 @@
+# === Secrete — NU comite niciodata ===
+lightrag/.env
+
+# === Mediu Python ===
+lightrag/.venv/
+**/__pycache__/
+*.pyc
+
+# === Date generate de LightRAG (graf, indexi, manifest) — se regenereaza ===
+lightrag/rag_storage/
+lightrag/manifest.json
+
+# === Loguri si output-uri de rulare ===
+lightrag/logs/
+lightrag/*.log
+lightrag/full_ingest.*
+lightrag/retry.*
+
+# === macOS ===
+.DS_Store

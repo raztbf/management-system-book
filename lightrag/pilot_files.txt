@@ -1,0 +1,46 @@
+# Pilot ~36 fisiere, cluster tematic "nerezonabil / diferentiere / brand"
+# ca sa testam DACA se leaga scrierile tale de studii.
+
+# --- Curs (scriere proprie) ---
+raw/cursuri/nerezonabil-inovatie-si-disruptie.md
+
+# --- Studii care mentioneaza "nerezonabil" / unicitate / diferentiere ---
+papers/haas-2023-mavericks-contrarians.md
+papers/aaker-2003-branded-differentiator.md
+papers/andreas-2016-unconventionality-originality.md
+papers/imhoff-2009-uniqueness-majority-influence.md
+papers/george-2025-authentic-scarcity.md
+papers/bordalo-2013-competition-attention.md
+papers/romaniuk-sharp-2007-distinctiveness.md
+papers/kuperminc-1983-assertiveness-refusal-compliance.md
+
+# --- Fundamente pe aceeasi tema ---
+raw/fundamente/fundament-0057.md
+raw/fundamente/fundament-1059.md
+raw/fundamente/fundament-1399.md
+raw/fundamente/fundament-0628.md
+raw/fundamente/fundament-0271.md
+raw/fundamente/fundament-1028.md
+raw/fundamente/fundament-0205.md
+raw/fundamente/fundament-0988.md
+raw/fundamente/fundament-0499.md
+raw/fundamente/fundament-0588.md
+raw/fundamente/fundament-0639.md
+raw/fundamente/fundament-0668.md
+
+# --- Filozofii (esantion) ---
+raw/filozofii/filozofie-0001.md
+raw/filozofii/filozofie-0002.md
+raw/filozofii/filozofie-0003.md
+raw/filozofii/filozofie-0004.md
+raw/filozofii/filozofie-0005.md
+raw/filozofii/filozofie-0006.md
+raw/filozofii/filozofie-0007.md
+raw/filozofii/filozofie-0008.md
+raw/filozofii/filozofie-0009.md
+raw/filozofii/filozofie-0010.md
+raw/filozofii/filozofie-0011.md
+raw/filozofii/filozofie-0012.md
+raw/filozofii/filozofie-0013.md
+raw/filozofii/filozofie-0014.md
+raw/filozofii/filozofie-0015.md

@@ -1,0 +1,6 @@
+.venv/
+.env
+rag_storage/
+manifest.json
+*.log
+__pycache__/

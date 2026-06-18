@@ -1,0 +1,6 @@
+---
+numar: 558
+data: 2022-05-27
+---
+
+Dacă e frumos, e și deștept. Din cauza acestei părtiniri cognitive au ajuns oamenii să învețe nutriție și medicină de la vedete.Efectul de Halo descrie un fenomen de generalizare a unei caracteristici bune asupra tuturor celorlalte caracteristici.De exemplu, majoritatea oamenilor care mă urmăresc presupun că dacă eu sunt bun în creșterea și managementul afacerilor, atunci sunt bun și în investiții și în dezvoltare personală și chiar în anumite sporturi.Deși… faptul că știu să cresc afaceri, nu se traduce automat în celelalte lucruri.Avem nevoie să știm să ne folosim de acest efect de Halo în beneficiul nostru și să ne putem proteja de consecințele negative ale lui.Faptul că un vânzător este remarcabil în munca lui de vânzare de teren, nu îl face un manager de vânzări remarcabil. Faptul că un om este carismatic și ne place să stăm de vorbă cu el, nu îl transformă automat într-un potențial partener de business.Avem nevoie să evaluăm abilitățile pe care le căutăm și să avem grijă să nu generalizăm.De cealaltă parte, efectul de Halo îl putem folosi în beneficiul nostru. Dacă ești remarcabil în ceva, te poți folosi de acel lucru pentru a-ți crește credibilitatea în alte domenii.Însă, chiar dacă știm să ne folosim de acest efect, tot ar trebui să o facem cu etică și grijă față de ceilalți.
