@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+# kb-web — porneste interfata web LightRAG (graf vizual + chat) pe http://localhost:9621
+#
+# De ce e nevoie de wrapper: lightrag-server citeste ALT set de variabile decat
+# scripturile tale (kb.py/ingest.py via kb_lib.py). Fara astea, default-eaza pe
+# binding-ul "ollama" si crapa cu "No module named 'ollama'". Aici mapam cheia si
+# base-ul OpenAI din .env pe numele standard pe care le asteapta serverul.
+#
+# Foloseste acelasi rag_storage/ ca terminalul, deci vede tot ce ai indexat.
+#
+# Folosire:
+#   kb-web            # porneste pe portul 9621
+#   kb-web --port 9700   # alt port (orice argument e pasat mai departe serverului)
+set -euo pipefail
+
+KB="/Users/raztbf/Work/0-kb-tbf/lightrag"
+cd "$KB"
+set -a; . ./.env; set +a
+
+# LLM -> OpenAI (numele standard ale serverului), reluat din .env-ul tau
+export LLM_BINDING="openai"
+export LLM_MODEL="${QUERY_MODEL:-gpt-5.4}"
+export LLM_BINDING_HOST="${OPENAI_BASE_URL:-https://api.openai.com/v1}"
+export LLM_BINDING_API_KEY="${OPENAI_API_KEY:?OPENAI_API_KEY lipseste din .env}"
+
+# Embeddings -> OpenAI (EMBEDDING_MODEL/EMBEDDING_DIM vin deja din .env cu nume corecte)
+export EMBEDDING_BINDING="openai"
+export EMBEDDING_BINDING_HOST="${OPENAI_BASE_URL:-https://api.openai.com/v1}"
+export EMBEDDING_BINDING_API_KEY="$OPENAI_API_KEY"
+
+# Acelasi storage ca terminalul
+export WORKING_DIR="$KB/rag_storage"
+
+echo "WebUI -> http://localhost:9621   (graf: tab 'Knowledge Graph')"
+echo "Storage: $WORKING_DIR   |  LLM: $LLM_MODEL  |  Embed: ${EMBEDDING_MODEL:-text-embedding-3-large}"
+echo "Opreste cu Ctrl-C."
+echo ""
+exec "$KB/.venv/bin/lightrag-server" "$@"

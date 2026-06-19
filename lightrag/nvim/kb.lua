@@ -1,6 +1,6 @@
 -- Integrare nvim pentru baza de cunostinte TBF.
 -- Pune in init.lua:  require("kb")   (dupa ce adaugi acest folder la runtimepath/packpath)
--- sau, rapid:        :luafile /Users/raztbf/Work/1-tbf-knowledge/lightrag/nvim/kb.lua
+-- sau, rapid:        :luafile /Users/raztbf/Work/0-kb-tbf/lightrag/nvim/kb.lua
 --
 -- Comenzi:
 --   :KB Ce am scris despre nerezonabil?        -> raspuns intr-un scratch buffer
@@ -9,8 +9,8 @@
 
 local M = {}
 
-local PY = "/Users/raztbf/Work/1-tbf-knowledge/lightrag/.venv/bin/python"
-local KB = "/Users/raztbf/Work/1-tbf-knowledge/lightrag/kb.py"
+local PY = "/Users/raztbf/Work/0-kb-tbf/lightrag/.venv/bin/python"
+local KB = "/Users/raztbf/Work/0-kb-tbf/lightrag/kb.py"
 local mode = "mix"
 
 local function show(lines)

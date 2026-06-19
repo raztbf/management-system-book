@@ -13,7 +13,7 @@
 #   kb-sync --skip-research   # doar ingestie, fara research (fallback)
 set -euo pipefail
 
-ROOT="/Users/raztbf/Work/1-tbf-knowledge"
+ROOT="/Users/raztbf/Work/0-kb-tbf"
 KB="$ROOT/lightrag"
 PY="$KB/.venv/bin/python"
 LOGDIR="$KB/logs"
@@ -32,7 +32,7 @@ done
 # --- Etapa 0: scrieri noi (in content/raw, care nu-s inca in manifest = neingerate) ---
 NEW="$("$PY" - <<'PYEOF'
 import json, os
-ROOT = "/Users/raztbf/Work/1-tbf-knowledge"
+ROOT = "/Users/raztbf/Work/0-kb-tbf"
 CONTENT = os.path.join(ROOT, "content")
 KB = os.path.join(ROOT, "lightrag")
 
