@@ -74,12 +74,17 @@ fi
 
 TS="$(date +%Y%m%d-%H%M%S)"
 
+# Lista pentru research = scrierile noi MINUS cartile externe (raw/books/).
+# Cartile sunt material de referinta al altor autori, nu claim-uri ale lui Razvan
+# de sustinut cu studii — deci se ingereaza (Etapa 2) dar NU se cerceteaza.
+RESEARCH_NEW="$(printf '%s\n' "$NEW" | grep -v '^raw/books/' || true)"
+
 # --- Etapa 1: research headless (Consensus) ---
-if [ "$SKIP_RESEARCH" = 0 ]; then
+if [ "$SKIP_RESEARCH" = 0 ] && [ -n "$RESEARCH_NEW" ]; then
   echo ""
   echo "=== Etapa 1: research academic (Consensus, headless) — poate dura cateva minute ==="
   PROMPT="$(cat "$KB/research_prompt.md")
-$(printf '%s\n' "$NEW" | sed 's#^#- content/#')"
+$(printf '%s\n' "$RESEARCH_NEW" | sed 's#^#- content/#')"
   cd "$ROOT"
   if printf '%s' "$PROMPT" | claude -p \
         --allowedTools "mcp__consensus__search Read Grep Glob Write Edit" \
@@ -89,8 +94,10 @@ $(printf '%s\n' "$NEW" | sed 's#^#- content/#')"
   else
     echo "AVERTISMENT: research-ul a esuat sau a fost intrerupt. Continui cu ingestia a ce exista." >&2
   fi
-else
+elif [ "$SKIP_RESEARCH" = 1 ]; then
   echo "(--skip-research: sar research-ul)"
+else
+  echo "(nimic de cercetat: noul continut e doar carti externe din raw/books/ — sar research-ul, le ingerez direct)"
 fi
 
 # --- Etapa 2: ingestie incrementala (scrieri noi + paper-uri noi) ---

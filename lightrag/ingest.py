@@ -53,6 +53,14 @@ def source_header(relpath: str, fm: dict) -> str:
         meta = ", ".join(p for p in [f"{autori} ({an})" if an else autori, jurnal] if p)
         return (f"[SURSA: studiu academic, rezumat in romana, legat de scrierile lui Razvan. "
                 f"{meta}. {titlu}]")
+    if relpath.startswith("raw/books/"):
+        autor = fm.get("autor", "autor necunoscut")
+        an = fm.get("an", "")
+        titlu = fm.get("titlu", "")
+        meta = f"{autor} ({an})" if an else autor
+        return (f"[SURSA: carte a unui ALT autor, material de referinta — NU este scrisa de "
+                f"Razvan Cazanescu si NU reflecta opiniile lui. {meta}. {titlu}. "
+                f"Citeaza ideile ca apartinand autorului, nu lui Razvan.]")
     if relpath.startswith("raw/cursuri/"):
         return f"[SURSA: curs TBF scris de Razvan Cazanescu. Fisier: {relpath}]"
     if relpath.startswith("raw/fundamente/"):

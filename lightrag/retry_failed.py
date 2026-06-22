@@ -43,20 +43,27 @@ async def main():
     print("Dupa retry:", dict(after))
 
     # Reconciliem manifestul: doar docurile 'processed' raman marcate ca gata.
-    processed_paths = {
-        v.get("file_path") for v in ds.values() if v.get("status") == "processed"
+    # ATENTIE: in doc_status, file_path e DOAR basename-ul (ex. 'fundament-0988.md'),
+    # nu relpath-ul ('raw/fundamente/...'). Asa ca NU reconstruim din file_path
+    # (ar da join gresit -> manifest gol). Mergem invers: parcurgem content/,
+    # calculam doc_id-ul determinist al fiecarui fisier si il pastram daca acel
+    # doc_id e 'processed' in doc_status.
+    processed_ids = {
+        k for k, v in ds.items() if v.get("status") == "processed"
     }
     manifest = {}
     rebuilt = 0
-    for rel in processed_paths:
-        if not rel:
-            continue
-        ap = os.path.join(CONTENT_ROOT, rel)
-        if os.path.isfile(ap):
-            h = hashlib.sha1(open(ap, encoding="utf-8").read().encode("utf-8")).hexdigest()
+    for dirpath, _, names in os.walk(CONTENT_ROOT):
+        for n in names:
+            if not n.endswith(".md"):
+                continue
+            ap = os.path.join(dirpath, n)
+            rel = os.path.relpath(ap, CONTENT_ROOT)
             did = "tbf-" + hashlib.sha1(rel.encode("utf-8")).hexdigest()[:16]
-            manifest[rel] = {"hash": h, "doc_id": did}
-            rebuilt += 1
+            if did in processed_ids:
+                h = hashlib.sha1(open(ap, encoding="utf-8").read().encode("utf-8")).hexdigest()
+                manifest[rel] = {"hash": h, "doc_id": did}
+                rebuilt += 1
     json.dump(manifest, open(MANIFEST, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     print(f"Manifest reconciliat: {rebuilt} documente 'processed' urmarite.")
     still = after.get("failed", 0) + after.get("pending", 0)
