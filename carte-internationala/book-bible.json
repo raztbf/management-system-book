@@ -1,0 +1,759 @@
+{
+  "meta": {
+    "titlu_provizoriu": "Smart Goals, Stupid Company",
+    "subtitlu_provizoriu": "De ce companiile (și oamenii) inteligenți cresc prin experimente, nu prin obiective",
+    "limba": "ro",
+    "nota_limba": "Draft în română (vocea iese autentic). Traducere EN ulterioară pentru piața internațională.",
+    "creat": "2026-06-27",
+    "ultima_procesare": "2026-06-27",
+    "surse_research": [
+      "carte-internationala/RAPORT-RESEARCH-goals-must-die.md",
+      "carte-internationala/research-carte-obiective-vs-experimente.md",
+      "carte-internationala/RAPORT-STRUCTURA-nonfiction.md"
+    ]
+  },
+  "temelie": {
+    "ideea_mare": "Obiectivul (de rezultat) e o mărturisire de ignoranță — îl pui pentru că nu știi CUM. Pentru ce știi cum, condu prin proces; pentru ce nu știi cum, nu pune obiectiv, ci experiment. Asta înlocuiește managementul prin obiective.",
+    "ideea_mare_o_propozitie": "Nu crești punându-ți ținte mai mari; crești îmbunătățind mașinăria — proces pentru cunoscut, experimente pentru necunoscut.",
+    "cititor_ideal": "Antreprenori, fondatori, manageri și lideri de echipă (companii cu procese, oameni 25-30+) care conduc prin obiective/OKR și simt costul: stres, tunnel vision, burnout, creștere care nu ține. Plus orice cititor care vrea să-și conducă viața fără tirania țintelor.",
+    "nu_pentru": "Cititorul care vrea un manual pas-cu-pas de cum se construiesc procesele (ăla e cursul TBF). Cei sub 25 care încă n-au simțit costul. Cei care vor motivație, nu mecanism.",
+    "problema": "Blocați pentru că folosesc unealta greșită pe sarcina greșită: pun obiective de rezultat (necunoscut) crezând că asta dă performanță, când de fapt creează tunnel vision, frică, trișare, învățare inhibată și joc cu sumă zero — iar creșterea obținută așa nu ține.",
+    "transformare": {
+      "inainte": "Conduce prin obiective: trimestriala = ținte de creștere asumate, presiune, bonus pe rezultat, eroi care 'se descurcă', burnout, creștere care se prăbușește când scade presiunea.",
+      "dupa": "Conduce prin mașinărie: trimestriala = audit al sistemului → blocaje → ipoteze → portofoliu de experimente măsurate → date → proces îmbunătățit. Creștere care compune, oameni mai împliniți, cultură de curiozitate."
+    },
+    "promisiune": "La final, cititorul poate conduce o trimestrială complet diferită: să auditeze mașinăria, să transforme blocajele în experimente, să citească datele și să codifice procesul — fără să mai pună un singur obiectiv de rezultat. Și poate face același lucru cu propria viață.",
+    "de_ce_tu": "Spina de conversie: Razvan și-a construit întreaga carieră și sistemul de management pe obiective/OKR (a inventat OKR Dinamice și Progresive, a scris sute de articole pro-obiective, în 2023 a luat peste picior moda 'renunță la obiective'). Acum spune invers. Convertitul e mai credibil decât fanaticul. Plus: a rulat metoda 1,5 ani în 7 companii din industrii diferite.",
+    "de_ce_acum": "Val anti-OKR 2024-2025: ~60% din organizații se chinuie cu OKR; Google admite că legarea OKR de bonus e nocivă; apar alternative (FAST, OHLA). Există backlash + studii, dar NU o metodologie concretă de management care să înlocuiască OKR-ul. Cartea prinde valul, nu îl creează.",
+    "diferentiere": "vs Adams/Clear (au reparat individul) → repar compania. vs Doerr/Measure What Matters (te învață obiective mai bune) → îți arăt când să nu ai niciunul. vs Ries/Thomke (experiment pentru startup/produs) → îl aduc în sistemul de management al firmei mature, lângă proces, cu o regulă de decizie. vs Deming (proces/calitate, pre-OKR) → adaug portofoliul de experimente + regula cunoscut/necunoscut pentru era post-OKR.",
+    "arhitectura": "Problemă→cauză→soluție (Actul I) curgând în hub-and-spoke (Actul II-III). Spina de conversie (memoir) împletită, ~10%. Două fire-exemplu duse prin carte: slăbitul (personal, universal) + recrutarea rapidă în depozit (business). Steelman obligatoriu.",
+    "throughline": "Obiectivul te face să joci viața și business-ul cu sumă zero, mizând pe o țintă; mașinăria (proces + experiment) te face să compui, cu curiozitate în loc de frică. Titlul taie (Smart Goals, Stupid Company), argumentul rămâne nuanțat: obiectivul-busolă/viziune rămâne; obiectivul de rezultat ca unealtă de management zilnic pică."
+  },
+  "glosar": {
+    "obiectiv (de rezultat / outcome)": "Ceva ce vrei dar nu ai încă, exprimat ca țintă de cifră cu termen ('+30% vânzări în trimestru'). Mărturisire de ignoranță: îl pui pentru că nu știi CUM. d=0,09 pe performanță.",
+    "obiectiv de proces": "Acțiune controlabilă, repetabilă, 100% în puterea ta ('sport de 3x/săpt', 'mănânc 2000 cal'). De fapt e proces, nu obiectiv. d=1,36.",
+    "proces": "Harta — exact ce trebuie să faci ca să ajungi unde vrei, când CUM-ul e cunoscut ȘI e 100% în puterea ta. Managementul cunoscutului.",
+    "experiment": "Instrumentul necunoscutului. Ipoteză → metodă (o singură variabilă, măsurare cap-coadă) → date. Nu poate eșua dacă e măsurat. Rulat LÂNGĂ mașinărie, nu în ea (R&D separat de operațiuni).",
+    "mașinăria (de business / de viață)": "Sistemul de procese care produce output-ul actual. O crești în două feluri: o multiplici (exploatezi) sau o îmbunătățești. Viața e și ea o mașinărie.",
+    "auditul mașinăriei": "Ritualul trimestrial: mapezi sistemul, întrebi 'ce blochează ca să facem dublu?', identifici blocajele. Înlocuiește setarea de obiective.",
+    "joc cu sumă zero": "Câștigi pe o parte (bani) pierzând pe celelalte (sănătate, relație, somn). Obiectivul + tunnel vision = motorul sumei zero.",
+    "minciuna obiectivului": "Credința că vei fi mai bine/mai fericit când îl atingi. Rareori se întâmplă; obiectivul doar amână fericirea.",
+    "tunnel vision": "Focusul îngust pe țintă care neglijează tot ce nu e în obiectiv și sugrumă învățarea, explorarea, inovația.",
+    "forecast (prognoza)": "Pleci de la 'unde ajung dacă rulez mașinăria asta 10 ani', nu de la 'ce mi-aș dori'. Te trezește la realitate.",
+    "eroul": "Salvatorul (consultant/antrenor/talent) de care ai nevoie DOAR când nu ai datele și procesul. Cu date + experiment, nu mai ai nevoie de erou.",
+    "regula de decizie": "Cunoscut → proces. Necunoscut → experiment. Niciodată obiectiv de rezultat pe necunoscut."
+  },
+  "entitati": {
+    "oameni": [
+      {
+        "nume": "Razvan Cazanescu",
+        "alias": [
+          "eu",
+          "autorul"
+        ],
+        "desc": "Fondator TBF. Spina de conversie: a construit sistemul de management pe obiective, acum îl înlocuiește cu experimente."
+      },
+      {
+        "nume": "Prietenul (interlocutorul)",
+        "alias": [
+          "P"
+        ],
+        "desc": "Antreprenor; partener de dialog în transcript; sursă a obiecțiilor reale. Are firmă de bijuterii (exemplul cu genți/webinarii), copil de ~5 ani. Anonimizat în carte."
+      },
+      {
+        "nume": "Bogdan",
+        "alias": [
+          "directorul de vânzări"
+        ],
+        "desc": "Nume ilustrativ folosit în exemple ('Bogdane, creștem vânzările cu 30%?')."
+      }
+    ],
+    "anecdote": [
+      {
+        "id": "slabit",
+        "titlu": "Mi-am atins obiectivul de slăbit de 5 ori",
+        "rezumat": "20/25/30 kg, recâștigate de fiecare dată; dietă vs stil de viață; −500 cal scoase treptat din procesul existent.",
+        "capitol": [
+          "01",
+          "05",
+          "10",
+          "12"
+        ],
+        "sursa": "transcript 00:06 / 01:03 / 01:13 / 01:15",
+        "folosit_in": []
+      },
+      {
+        "id": "suma-zero-bani",
+        "titlu": "Am câștigat banii, am pierdut tot restul",
+        "rezumat": "Obiectiv financiar atins; sănătate, relație, fericire, sănătate mentală 'de râpă'. 'Doar am făcut un schimb.'",
+        "capitol": [
+          "01"
+        ],
+        "sursa": "00:04 / 03:12",
+        "folosit_in": []
+      },
+      {
+        "id": "relatia",
+        "titlu": "Cel mai prost lucru: obiectiv pe relație",
+        "rezumat": "Obiectivul a stricat relația; un curs/proces + deal de 1 an; 8 luni fără efect apoi compunere; experimente recunoștință + date night în secvență.",
+        "capitol": [
+          "12",
+          "08"
+        ],
+        "sursa": "01:42 / 02:12",
+        "folosit_in": []
+      },
+      {
+        "id": "fumat",
+        "titlu": "M-am lăsat, m-am reapucat",
+        "rezumat": "Prietenul; R: nu știi încă să duci o viață ÎMPLINITĂ fără să fumezi.",
+        "capitol": [
+          "12",
+          "13"
+        ],
+        "sursa": "02:29",
+        "folosit_in": []
+      },
+      {
+        "id": "sala",
+        "titlu": "Un singur experiment la sală",
+        "rezumat": "Oamenii zic 'nu-mi place sala' după ce au încercat un singur tip de antrenament dat de un antrenor care i-a terminat.",
+        "capitol": [
+          "12"
+        ],
+        "sursa": "02:28",
+        "folosit_in": []
+      },
+      {
+        "id": "recrutare-depozit",
+        "titlu": "Recrutarea rapidă în depozit (firul-exemplu business)",
+        "rezumat": "Campanie marketing → dublu comenzi → depozitul anticipează blocaj; experiment 1 (sursa aplicanților), experiment 2 (timp training + productivitate 70%); devine proces 'recrutare rapidă'; contingency la 2 săpt.",
+        "capitol": [
+          "10",
+          "07",
+          "08",
+          "09"
+        ],
+        "sursa": "01:33–01:41",
+        "folosit_in": []
+      },
+      {
+        "id": "conversie-vanzari",
+        "titlu": "Privirea din avion pe procesul de vânzări",
+        "rezumat": "Lead-uri? calificare? conversie? 'nu convertim destul'. Ipoteze: preț+upsell, influenceri, headline/landing.",
+        "capitol": [
+          "07",
+          "08"
+        ],
+        "sursa": "00:27 / 00:54",
+        "folosit_in": []
+      },
+      {
+        "id": "geanta",
+        "titlu": "Experimentul cu geanta (cascadă)",
+        "rezumat": "Bijuterii → genți: 5% trafic + 3 mailuri; date bune → 4-5 experimente pe tip/price point; sistemul de bază neatins.",
+        "capitol": [
+          "08"
+        ],
+        "sursa": "01:25",
+        "folosit_in": []
+      },
+      {
+        "id": "recesiune",
+        "titlu": "Tăiere costuri 50% cu reguli",
+        "rezumat": "Reducere fără concedieri/salarii/furnizori. Știi cum → proiect; nu știi → degeaba pui regula.",
+        "capitol": [
+          "13"
+        ],
+        "sursa": "01:59 / 02:00",
+        "folosit_in": []
+      },
+      {
+        "id": "it-ai-layoffs",
+        "titlu": "Concedierile pripite din IT (AI)",
+        "rezumat": "Au dat afară inginerii pe val de AI; după 6 luni îi caută înapoi, plecaseră. Experiment de 1 săpt: mută temporar, vezi ce rămâne nefăcut.",
+        "capitol": [
+          "13"
+        ],
+        "sursa": "02:02",
+        "folosit_in": []
+      },
+      {
+        "id": "lansare-sua",
+        "titlu": "Lansează în SUA într-o lună",
+        "rezumat": "Obiectivul ar fi tăiat research-ul; alternativa: 20 experimente la 2 săpt.",
+        "capitol": [
+          "03",
+          "13"
+        ],
+        "sursa": "02:06",
+        "folosit_in": []
+      },
+      {
+        "id": "patru-orase",
+        "titlu": "Deschidere în 4 orașe",
+        "rezumat": "Obiectiv care funcționează FIINDCĂ ai deja procesul (steelman).",
+        "capitol": [
+          "04"
+        ],
+        "sursa": "01:54",
+        "folosit_in": []
+      },
+      {
+        "id": "contabilitate-ai",
+        "titlu": "Contabilitate, AI și datele-sursă",
+        "rezumat": "Problema nu e algoritmul, ci datele tagged greșit; experimente pe metodologii, nu pe lege.",
+        "capitol": [
+          "11",
+          "13"
+        ],
+        "sursa": "03:51",
+        "folosit_in": []
+      },
+      {
+        "id": "valve",
+        "titlu": "Valve — compania care a refuzat să crească",
+        "rezumat": "~300 oameni, ~50M$/angajat, refuz IPO, refuz recrutare în pandemie, cultură de experiment, lansează doar remarcabil.",
+        "capitol": [
+          "11"
+        ],
+        "sursa": "03:26–03:30",
+        "folosit_in": []
+      },
+      {
+        "id": "google-killed",
+        "titlu": "Killed by Google",
+        "rezumat": "~200+ experimente moarte; Maps, Gmail, Docs s-au născut din experimente.",
+        "capitol": [
+          "11"
+        ],
+        "sursa": "02:04",
+        "folosit_in": []
+      },
+      {
+        "id": "30-days-mba",
+        "titlu": "30 Days MBA — experiment pur",
+        "rezumat": "'Nu o să stea nimeni 30 de zile cu tine'; după date → proces; cea mai mare diferență în TBF.",
+        "capitol": [
+          "00",
+          "11"
+        ],
+        "sursa": "00:56 / 02:17",
+        "folosit_in": []
+      },
+      {
+        "id": "sistemul-tbf-experiment",
+        "titlu": "Sistemul de management — și el un experiment",
+        "rezumat": "10 prieteni, webinar 8h; 'n-am nicio șansă să vând fără să mă vadă cineva — bullshit, sunt curios'; a devenit cursul.",
+        "capitol": [
+          "00",
+          "11"
+        ],
+        "sursa": "02:17 / 02:18",
+        "folosit_in": []
+      },
+      {
+        "id": "casa-o-zi",
+        "titlu": "Cumperi casa fără s-o închiriezi o zi",
+        "rezumat": "Metaforă: oamenii aleg casa/viața fără să o testeze măcar o zi.",
+        "capitol": [
+          "12"
+        ],
+        "sursa": "02:19",
+        "folosit_in": []
+      },
+      {
+        "id": "counter-strike",
+        "titlu": "Counter-Strike din plăcere în corvoadă",
+        "rezumat": "Când pui obiectiv (leagues) într-un joc plăcut, dispare motivația intrinsecă.",
+        "capitol": [
+          "03"
+        ],
+        "sursa": "00:45 / 00:46",
+        "folosit_in": []
+      },
+      {
+        "id": "ferme-sobolani",
+        "titlu": "Fermele de șobolani",
+        "rezumat": "Oraș care plătea per șobolan prins → oamenii au făcut ferme de șobolani (comportament neetic indus de țintă).",
+        "capitol": [
+          "03"
+        ],
+        "sursa": "00:41",
+        "folosit_in": []
+      },
+      {
+        "id": "politia-la",
+        "titlu": "Poliția din LA și rata de rezolvare",
+        "rezumat": "Țintă pe rata de rezolvare → ignorau jafurile din case individuale, doar blocuri (un caz = multe apartamente rezolvate).",
+        "capitol": [
+          "03"
+        ],
+        "sursa": "00:42",
+        "folosit_in": []
+      },
+      {
+        "id": "ciorba-de-varza",
+        "titlu": "Dieta cu ciorbă de varză",
+        "rezumat": "Sub obiectiv cu termen, omul folosește ce știe deja (diete eșuate) în loc să învețe; minte că de data asta e diferit.",
+        "capitol": [
+          "03",
+          "05"
+        ],
+        "sursa": "00:30 / 00:31",
+        "folosit_in": []
+      }
+    ],
+    "afirmatii": [
+      {
+        "text": "Obiectivul e o mărturisire de ignoranță: îl pui pentru că nu știi CUM.",
+        "capitol": [
+          "05"
+        ]
+      },
+      {
+        "text": "Procesul corect e 100% în puterea ta; obiectivul niciodată.",
+        "capitol": [
+          "02",
+          "05"
+        ]
+      },
+      {
+        "text": "Obiectivele doar amână fericirea.",
+        "capitol": [
+          "01"
+        ]
+      },
+      {
+        "text": "În experiment nu există fail sau win. Există date.",
+        "capitol": [
+          "08"
+        ]
+      },
+      {
+        "text": "Creșterea e o consecință a unui sistem mai bun, nu o țintă cu termen.",
+        "capitol": [
+          "06",
+          "10"
+        ]
+      },
+      {
+        "text": "E de 10-50x mai ușor să scalezi un proces care merge decât să repari unul stricat.",
+        "capitol": [
+          "06"
+        ]
+      },
+      {
+        "text": "Obiectivele merg unde știi deja CUM (simplu); se prăbușesc pe complex/necunoscut.",
+        "capitol": [
+          "04"
+        ]
+      },
+      {
+        "text": "Cererea de 'mai mult' construiește un business mai mare, nu unul mai bun.",
+        "capitol": [
+          "13"
+        ]
+      },
+      {
+        "text": "Ești condus de curiozitate, nu de țintă: atașament de învățare vs de rezultat.",
+        "capitol": [
+          "13",
+          "11"
+        ]
+      },
+      {
+        "text": "90% din ce realizăm e bazat pe procese (ce facem repetat), nu pe obiective.",
+        "capitol": [
+          "05"
+        ]
+      }
+    ],
+    "teme": [
+      "sumă zero",
+      "fericire amânată",
+      "responsabilitate 100%",
+      "frică vs curiozitate",
+      "cunoscut vs necunoscut",
+      "exploatare vs îmbunătățire",
+      "joacă",
+      "credibilitatea convertitului",
+      "compunere vs heirup"
+    ]
+  },
+  "studii_cheie": {
+    "williamson-2022": "Meta-analiză sport: proces d=1,36 / performanță 0,44 / rezultat 0,09; auto-eficacitate 1,11; self-regulation 1,53. ('procesul bate rezultatul ~15x')",
+    "ordonez-2009": "Goals Gone Wild — 6 efecte secundare; obiectivul = medicament cu rețetă.",
+    "wood-1987": "Sarcini ușoare d=0,76 vs complexe d=0,42.",
+    "welsh-2019": "Obiective de învățare reduc neeticul fără a scădea performanța.",
+    "raveendran-2023": "Obiectivele → mai multă exploatare, mai puțină explorare (toxic în medii instabile).",
+    "locke-latham-1981-2006": "Steelman: obiective specifice+grele, una dintre cele mai replicate paradigme (90% pozitiv).",
+    "deming-1993": "System of Profound Knowledge, PDSA, aboliți evaluările de performanță; s-a opus MBO.",
+    "sarasvathy-2001": "Cauzație (logica predicției) vs Effectuation (logica controlului).",
+    "kaizen-al-baik-2019": "Lead Time −46%, eficiență +137%; standard înainte de kaizen (Marksberry).",
+    "nota": "Toate detaliile, citările și 'cum le folosești' sunt în RAPORT-RESEARCH-goals-must-die.md (Partea 3) și research-carte-obiective-vs-experimente.md (secț. 2)."
+  },
+  "capitole": [
+    {
+      "id": "00",
+      "titlu": "Introducere: Ultimul om care ar trebui să scrie cartea asta",
+      "teza": "Mi-am construit cariera pe obiective și acum vin să spun că sunt unealta greșită — iată de ce ar trebui să mă asculți tocmai de aceea.",
+      "intrebare_focus": "De ce să crezi pe cineva care a vândut obiective toată viața când spune să renunți la ele?",
+      "transformare": {
+        "inainte": "Crezi că obiectivele = singura cale serioasă spre rezultate.",
+        "dupa": "Ești dispus să pui la îndoială unealta, pentru că o pune la îndoială chiar fanaticul ei."
+      },
+      "eticheta": "problema",
+      "grila": {
+        "claim": "Obiectivele nu sunt nici cea mai bună metodă de a atinge rezultate, nici rezultatele pe care le vrei.",
+        "proof": "Spina de conversie (sute de articole pro-obiective, sistem OKR) + 30 Days MBA & sistemul TBF ca experimente; promisiunea cărții.",
+        "example": "30-days-mba, sistemul-tbf-experiment",
+        "action": "Promisiunea + harta cărții + analogia maratonistului."
+      },
+      "so_what": "Dacă fanaticul obiectivelor s-a răzgândit după ce le-a trăit la maxim, merită să te oprești.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    },
+    {
+      "id": "01",
+      "titlu": "Jocul cu sumă zero",
+      "teza": "Obiectivul te face să câștigi pe o parte pierzând pe toate celelalte, amânând la nesfârșit fericirea pe care o promite.",
+      "intrebare_focus": "De ce, după ce îți atingi obiectivul, te simți la fel de gol — sau mai rău?",
+      "transformare": {
+        "inainte": "Cred că dacă ating ținta, voi fi în sfârșit bine.",
+        "dupa": "Văd că obiectivul amână fericirea și mă pune să joc cu sumă zero."
+      },
+      "eticheta": "problema",
+      "grila": {
+        "claim": "Obiectivul amână fericirea și creează jocul cu sumă zero.",
+        "proof": "Suma zero (bani vs restul); minciuna obiectivului; tunnel vision; Gray 2017 (conflict de obiective = distres).",
+        "example": "suma-zero-bani, slabit",
+        "action": "Întrebarea: ce ai pierdut ultima dată când ai atins o țintă?"
+      },
+      "so_what": "Dacă fiecare țintă atinsă costă în altă parte, n-ai urcat — ai făcut un schimb.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    },
+    {
+      "id": "02",
+      "titlu": "De ce ne punem obiective de fapt",
+      "teza": "Punem obiective nu pentru că funcționează, ci pentru că ne dau o ușurare instantanee și o scăpare de responsabilitate.",
+      "intrebare_focus": "De ce ne simțim mai bine în secunda în care ne punem un obiectiv, deși n-avem idee cum îl atingem?",
+      "transformare": {
+        "inainte": "Cred că obiectivul e un act de responsabilitate.",
+        "dupa": "Văd că e deseori o speranță ieftină care fuge de responsabilitate."
+      },
+      "eticheta": "concept",
+      "grila": {
+        "claim": "Obiectivul = masturbare emoțională + speranță ieftină + fugă de responsabilitate (nu e 100% al tău).",
+        "proof": "Procesul e mai dur cognitiv și 100% al tău; de-aia îl evităm. Slăbitul ca dovadă a responsabilității 100%.",
+        "example": "slabit, ciorba-de-varza",
+        "action": "Test: dacă rezultatul nu e 100% în puterea ta, nu e încă proces."
+      },
+      "so_what": "Atâta timp cât obiectivul îți lasă o portiță de scuze, n-o să te schimbi.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    },
+    {
+      "id": "03",
+      "titlu": "Partea întunecată: ce face cu adevărat un obiectiv",
+      "teza": "Obiectivul de rezultat produce tunnel vision, risc prost, trișare, învățare sugrumată și cultură corodată — efecte secundare ca ale unui medicament puternic.",
+      "intrebare_focus": "Ce se strică în jurul tău exact când te concentrezi cel mai tare pe țintă?",
+      "transformare": {
+        "inainte": "Cred că obiectivul doar 'focusează'.",
+        "dupa": "Văd cele șase efecte secundare și de ce companiile mari pierd în fața celor mici."
+      },
+      "eticheta": "problema",
+      "grila": {
+        "claim": "Obiectivul are șase efecte secundare sistematice (Goals Gone Wild).",
+        "proof": "Ordóñez 2009; Raveendran 2023 (exploatare>explorare); Welsh 2019; învățarea inhibată → mari detronați de mici.",
+        "example": "ferme-sobolani, politia-la, counter-strike, lansare-sua",
+        "action": "Recunoaște-le în propria companie: care efect te costă cel mai mult?"
+      },
+      "so_what": "Dacă obiectivul sugrumă învățarea, o companie pe obiective se oprește din a deveni mai bună.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    },
+    {
+      "id": "04",
+      "titlu": "Steelman: când obiectivele chiar funcționează",
+      "teza": "Obiectivele funcționează — pe sarcini simple, cunoscute, pe orizont scurt; adică exact acolo unde, de fapt, ai fi folosit proces.",
+      "intrebare_focus": "Dacă goal-setting e una dintre cele mai dovedite teorii din psihologie, cum poți spune că e greșit?",
+      "transformare": {
+        "inainte": "Cred că ori obiectivele sunt sfinte, ori sunt o prostie.",
+        "dupa": "Văd granița: merg pe cunoscut/simplu; pică pe complex/necunoscut. Viziunea-busolă rămâne."
+      },
+      "eticheta": "concept",
+      "grila": {
+        "claim": "Obiectivul e puternic exact unde știi deja CUM.",
+        "proof": "Locke & Latham (90% pozitiv); Wood 1987 (0,76 ușor vs 0,42 complex); Kelman 2009 (NHS).",
+        "example": "patru-orase",
+        "action": "Întreabă: știu deja CUM și e 100% în puterea mea? Dacă da, nici nu e obiectiv — e proces."
+      },
+      "so_what": "Obiectivul câștigă fix acolo unde nu mai aveai nevoie de el.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    },
+    {
+      "id": "05",
+      "titlu": "Harta sau busola",
+      "teza": "Când ai harta (știi CUM, e în puterea ta), condu prin proces; busola (obiectivul) e doar pentru când n-ai hartă — și procesul bate rezultatul de ~15x.",
+      "intrebare_focus": "Care e diferența reală dintre un obiectiv și un proces — și de ce contează enorm?",
+      "transformare": {
+        "inainte": "Folosesc obiective și procese fără să știu când care.",
+        "dupa": "Am regula de decizie: cunoscut→proces, necunoscut→experiment (nu obiectiv)."
+      },
+      "eticheta": "concept",
+      "grila": {
+        "claim": "Obiectivul = busola fără hartă; procesul = harta; procesul bate rezultatul ~15x.",
+        "proof": "Williamson d=1,36 vs 0,09; auto-eficacitate 1,11; self-regulation 1,53; definițiile lui.",
+        "example": "slabit (proces 100% în puterea ta)",
+        "action": "Pentru fiecare țintă: ai harta? Dacă da → proces. Dacă nu → experiment."
+      },
+      "so_what": "Folosind unealta potrivită pe sarcina potrivită, câștigi performanță ȘI liniște.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    },
+    {
+      "id": "06",
+      "titlu": "Mașinăria",
+      "teza": "Business-ul (și viața) e o mașinărie; o crești în două feluri — o multiplici (exploatare) sau o îmbunătățești — iar creșterea reală e o consecință a unei mașinării mai bune, nu o țintă.",
+      "intrebare_focus": "De ce creșterea obținută prin obiective se prăbușește, iar cea prin sistem ține?",
+      "transformare": {
+        "inainte": "Văd creșterea ca pe o țintă izolată ('+30%').",
+        "dupa": "Văd creșterea ca output al unei mașinării pe care o îmbunătățesc."
+      },
+      "eticheta": "concept",
+      "grila": {
+        "claim": "Crești multiplicând sau îmbunătățind mașinăria; îmbunătățirea compune.",
+        "proof": "10-50x mai ușor să scalezi ce merge (casa); creșterea fără termen vs obiectivul cu termen.",
+        "example": "slabit (sistemul preia înapoi), 4 orașe (multiplicare)",
+        "action": "Întreabă: ce e următoarea dublare și ce blochează mașinăria s-o livreze?"
+      },
+      "so_what": "Dacă nu îmbunătățești mașinăria, orice creștere e împrumutată și se întoarce.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    },
+    {
+      "id": "07",
+      "titlu": "Auditul mașinăriei (noua trimestrială)",
+      "teza": "Înlocuiește setarea de obiective cu un audit: mapează sistemul, întreabă ce blochează dublarea, transformă blocajele în ipoteze.",
+      "intrebare_focus": "Cum arată o trimestrială în care nu se pune niciun obiectiv?",
+      "transformare": {
+        "inainte": "Trimestriala = asumăm ținte de creștere.",
+        "dupa": "Trimestriala = audit al mașinăriei → blocaje → ipoteze."
+      },
+      "eticheta": "practica",
+      "grila": {
+        "claim": "Trimestriala devine audit al mașinăriei, nu setare de ținte.",
+        "proof": "Privirea din avion → în procese; blocajele dublării; toți contribuie cu ipoteze; obiectiv de învățare (Welsh).",
+        "example": "conversie-vanzari, recrutare-depozit (blocajul)",
+        "action": "Întrebarea-cheie: ce blochează procesul ăsta să facă dublu față de acum?"
+      },
+      "so_what": "Te uiți la realitate (procesul), nu la o dorință (ținta).",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    },
+    {
+      "id": "08",
+      "titlu": "Experimentul",
+      "teza": "Pe necunoscut, transformi ipotezele în experimente proiectate ca split-teste — o singură variabilă, măsurare cap-coadă, rulate lângă mașinărie — pentru că în experiment nu există fail, există date.",
+      "intrebare_focus": "Cum construiești un experiment din care chiar poți învăța?",
+      "transformare": {
+        "inainte": "Modific direct sistemul mare pe baza unei presupuneri.",
+        "dupa": "Rulez experimente izolate, măsurate, fără presiunea țintei."
+      },
+      "eticheta": "practica",
+      "grila": {
+        "claim": "Experimentul = ipoteză + o singură variabilă + măsurare cap-coadă, lângă mașinărie.",
+        "proof": "Split test; R&D separat de operațiuni; experiment=date nu fail/win; experimente în cascadă; contingencies.",
+        "example": "geanta (cascadă), recrutare-depozit (cele 2 experimente), relatia (secvențierea)",
+        "action": "Arhitectura experimentului: ipoteză, o variabilă, ce măsori, prag de oprire, contingency."
+      },
+      "so_what": "Fără atașamentul de rezultat, frica de eșec dispare și poți testa de 10x mai mult.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft",
+      "nota": "Cel mai central capitol de practică; metodologia operațională pas-cu-pas e parțial GOL — vezi întrebări."
+    },
+    {
+      "id": "09",
+      "titlu": "Datele, nu eroul",
+      "teza": "Datele îți spun cum să modifici procesul; nu mai ai nevoie de eroi — iar singurul lucru pe care îl bonusezi e implementarea lecțiilor, nu experimentul.",
+      "intrebare_focus": "Ce faci cu rezultatele experimentelor — și cum nu reintroduci presiunea pe ușa din spate?",
+      "transformare": {
+        "inainte": "Caut talentul/eroul care 'se descurcă' cu ținta.",
+        "dupa": "Las datele să dicteze modificarea procesului; bonusez implementarea."
+      },
+      "eticheta": "practica",
+      "grila": {
+        "claim": "Datele dictează procesul; bonusezi implementarea, nu experimentul.",
+        "proof": "Fără erou (ai datele); experimentele devin proiecte cu checklist; evaluare pe implementare; ~10 experimente/trimestru.",
+        "example": "recrutare-depozit (concluziile → proces)",
+        "action": "Bonus doar pe implementarea corectă a lecției, cu raportare. Nu pune miză pe experiment."
+      },
+      "so_what": "Pui presiune pe ce e 100% în puterea omului (implementarea), nu pe necunoscut.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    },
+    {
+      "id": "10",
+      "titlu": "Codifici procesul (necunoscutul devine cunoscut)",
+      "teza": "Când un experiment îți arată ce funcționează, îl bagi în mașinărie ca proces; necunoscutul devine cunoscut, iar Kaizen îl îmbunătățește la nesfârșit.",
+      "intrebare_focus": "Cum transformi o descoperire într-un avantaj permanent?",
+      "transformare": {
+        "inainte": "Descoperirile bune se pierd sau rămân la nivel de erou.",
+        "dupa": "Le codific în proces; mașinăria devine permanent mai bună."
+      },
+      "eticheta": "practica",
+      "grila": {
+        "claim": "Lecția validată se codifică în proces; standard înainte de Kaizen.",
+        "proof": "Necunoscut→cunoscut; Kaizen (Al-Baik −46%/+137%; Marksberry: standard întâi); creșterea ca consecință.",
+        "example": "recrutare-depozit (procesul 'recrutare rapidă'), slabit (micul dejun care intră în rotație)",
+        "action": "După fiecare experiment câștigat: scrie-l ca proces și pune-l în mașinărie."
+      },
+      "so_what": "Cu fiecare descoperire codificată, sistemul produce mai mult — for ever, nu până la termen.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    },
+    {
+      "id": "11",
+      "titlu": "De la frică la curiozitate",
+      "teza": "Cultura de experiment readuce joaca și curiozitatea pe care obiectivele le sting; failure devine date, iar oamenii buni dau ce au mai valoros — descoperirea.",
+      "intrebare_focus": "De ce companiile mici, jucăușe, detronează giganții serioși?",
+      "transformare": {
+        "inainte": "Cultură de frică de eșec și ținte.",
+        "dupa": "Cultură de curiozitate, experiment, învățare inevitabilă."
+      },
+      "eticheta": "concept",
+      "grila": {
+        "claim": "Experimentul transformă frica de eșec în curiozitate și face învățarea inevitabilă.",
+        "proof": "Valve; Google (Killed by Google); cinismul; educația prin experiment; ierarhia învățării; excited=să încerci ceva.",
+        "example": "valve, google-killed, 30-days-mba, contabilitate-ai",
+        "action": "Oprește cinismul; nu mai tăia experimente 'evident proaste' înainte de date."
+      },
+      "so_what": "Cultura jucăușă nu e moale — e cel mai serios avantaj competitiv pe termen lung.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    },
+    {
+      "id": "12",
+      "titlu": "Mașinăria vieții",
+      "teza": "Aplici același sistem vieții personale: mapezi mașinăria, pleci de la forecast (nu de la dorință) și descoperi prin experimente ce funcționează pentru TINE.",
+      "intrebare_focus": "Cum îți conduci viața fără să o joci tot cu sumă zero?",
+      "transformare": {
+        "inainte": "Îmi pun dorințe-obiective și mă mir că nu țin.",
+        "dupa": "Îmi rulez viața ca o mașinărie pe care o îmbunătățesc cu experimente."
+      },
+      "eticheta": "practica",
+      "grila": {
+        "claim": "Viața e o mașinărie; pleci de la forecast și experimentezi ce e potrivit pentru tine.",
+        "proof": "Forecast (unde ajung în 10 ani pe mașinăria asta); curiozitate vs țintă; nutriția/sala personală.",
+        "example": "relatia (anchor), fumat, sala, casa-o-zi, slabit",
+        "action": "Mapează-ți mașinăria vieții; fă forecast la 10 ani; rulează un experiment în secvență."
+      },
+      "so_what": "Începi experimentele înainte să apară problema, nu după.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    },
+    {
+      "id": "13",
+      "titlu": "Da, dar... (obiecțiile)",
+      "teza": "Răspund obiecțiilor reale: 'nu e doar o altă cerere de rezultat?', 'business-ul nu poate merge doar pe date', 'managerii preferă obiective', 'viața personală e prea emoțională', criza.",
+      "intrebare_focus": "Unde se rupe metoda asta — și de ce, de fapt, nu se rupe?",
+      "transformare": {
+        "inainte": "Am o listă de 'da, dar' care îmi justifică obiectivele.",
+        "dupa": "Văd că alternativa (obiectivul/presupunerea) e mai proastă în fiecare caz."
+      },
+      "eticheta": "concept",
+      "grila": {
+        "claim": "Fiecare obiecție majoră are un răspuns: alternativa la experiment e mai proastă.",
+        "proof": "Cererea = business mai mare nu mai bun; experiment=date; criza = decizii pe mașinărie (nici obiectiv); curiozitate vs țintă; termene scurte.",
+        "example": "recesiune, it-ai-layoffs, fumat, lansare-sua",
+        "action": "Pentru fiecare 'da, dar': întreabă 'știu deja CUM și e în puterea mea?'."
+      },
+      "so_what": "Obiecțiile nu apără obiectivul — apără confortul de a nu privi realitatea.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    },
+    {
+      "id": "14",
+      "titlu": "Concluzie: Luni dimineață",
+      "teza": "Rulează ciclul — mașinărie → experimente → date → procese mai bune → mașinărie — săptămâna asta: omoară un obiectiv, pune un proces și un experiment.",
+      "intrebare_focus": "Cu ce pleci concret de mâine?",
+      "transformare": {
+        "inainte": "Înțeleg ideea.",
+        "dupa": "Am ciclul și prima mișcare concretă."
+      },
+      "eticheta": "practica",
+      "grila": {
+        "claim": "Sistemul de operare = ciclul mașinărie→experiment→date→proces; aplicabil de la startup la corporație.",
+        "proof": "Ciclul; pentru cine e; rulat în 7 companii; revenire la imaginea de deschidere.",
+        "example": "revine la slabit + 30-days-mba",
+        "action": "Săptămâna asta: alege un obiectiv, înlocuiește-l cu un proces (dacă știi cum) sau un experiment (dacă nu)."
+      },
+      "so_what": "Nu-ți schimbi viața punând o țintă mai mare. O schimbi îmbunătățind mașinăria.",
+      "stare": "draft",
+      "acoperire": 60,
+      "saturatie": {
+        "runde_fara_idei_noi": 0
+      },
+      "status_lungime": "primul draft"
+    }
+  ]
+}
