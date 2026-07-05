@@ -26,3 +26,11 @@ orientarea spre client.
   only self-rated performance." [abstract]
   _(trad.) ASB crește performanța auto-evaluată, evaluată de manager și obiectivă, în timp ce CO crește
   doar performanța auto-evaluată._
+
+## Tradus pentru Razvan
+
+Susține content/raw/fundamente/fundament-1547.md: pentru că fiecare client tânjește după o poziție
+socială diferită și are o poveste diferită, vânzarea care se ADAPTEAZĂ la ce descoperă despre
+clientul concret (prin întrebări, înainte de a prezenta oferta) bate vânzarea cu discurs unic —
+meta-analiza pe 31.000 de vânzători arată că adaptarea crește inclusiv performanța măsurată
+obiectiv, nu doar impresia vânzătorului despre sine.

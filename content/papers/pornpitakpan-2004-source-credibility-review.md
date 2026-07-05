@@ -26,3 +26,10 @@ Variabilele care interacționează sunt grupate în 5 categorii: sursă, mesaj, 
   credibilitate mică în privința persuasiunii._
 * „Interaction effect studies, however, show source credibility to be a liability under certain conditions." [abstract]
   _(trad.) studiile de interacțiune arată însă că, în anumite condiții, credibilitatea sursei devine o povară._
+
+## Tradus pentru Razvan
+
+Explică de ce Razvan a scos autorii din colecția lui de citate
+(content/raw/filozofii/filozofie-0211.md): cinci decenii de dovezi arată că cine spune un lucru
+schimbă cât de convingător pare lucrul, independent de conținut. Anonimizarea citatelor dezactivează
+acest bias și te obligă să analizezi gândul, nu prestigiul (sau antipatia) autorului.

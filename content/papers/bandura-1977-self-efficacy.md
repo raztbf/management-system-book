@@ -34,3 +34,12 @@ experiență personală și se stinge ușor la primele eșecuri; (4) stările fi
   efficacy and may be extinguished by histories of past failures." [abstract, formularea DeVellis 1983]
   _(trad.) persuasiunea verbală, nefiind ancorată în experiență personală, e un inductor mai slab al
   eficacității și poate fi stinsă de un istoric de eșecuri._
+
+## Tradus pentru Razvan
+
+Fundamentul pentru content/raw/filozofii/filozofie-212.md: „stima de sine nu crește prin gândire,
+nu crește prin afirmații pozitive... crește prin acțiune" este, la Bandura, ierarhia surselor de
+self-efficacy — experiențele directe de măiestrie sunt cea mai puternică sursă, persuasiunea
+verbală cea mai slabă. Iar paradoxul lui Razvan („acționezi fără încredere ca să capeți încredere")
+e chiar mecanismul lui Bandura: persistența în activități care par amenințătoare, dar sunt relativ
+sigure, e cea care construiește eficacitatea percepută.

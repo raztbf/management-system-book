@@ -27,3 +27,11 @@ informației negative, mai ales în context de control executiv slab.
   behaviour and reducing sensitivity to changing contingencies." [abstract]
   _(trad.) ruminația interferează cu rezolvarea de probleme și cu comportamentul instrumental și reduce
   sensibilitatea la contingențe schimbătoare._
+
+## Tradus pentru Razvan
+
+Susține „scenarita cronică" din content/raw/filozofii/filozofie-212.md: gândirea repetitivă nu doar
+că nu produce claritate — interferează activ cu rezolvarea de probleme și cu acțiunea, și REDUCE
+sensibilitatea la feedback-ul realității („contingențe schimbătoare"). Adică fix ce descrie Razvan:
+mintea muncește enorm, dar realitatea nu primește niciun input nou, iar bucla acțiune→feedback→ajustare
+e singura care rupe obiceiul.
