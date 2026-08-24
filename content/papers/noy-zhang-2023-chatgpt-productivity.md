@@ -24,3 +24,7 @@ a scăzut cu 40%, calitatea a crescut cu 18%. IMPORTANT: inegalitatea dintre luc
   _(trad.) timpul mediu a scăzut cu 40%, iar calitatea producției a crescut cu 18%._
 * „Inequality between workers decreased." [abstract]
   _(trad.) inegalitatea dintre lucrători a scăzut._
+
+## Tradus pentru Razvan
+
+Susține direct argumentul din fundament-1556 despre scrisul de vânzare cu AI: pe SARCINI DE SCRIERE, AI-ul nu doar taie timpul (−40%), ci CREȘTE calitatea (+18%). Adică exact ce spune Razvan — AI-ul e o unealtă care „permite copywriterilor să scrie texte mai puternice", nu un înlocuitor. Iar scăderea inegalității arată că un scriitor ajutat de AI livrează mai bun, argument contra concedierii și pentru păstrarea + instruirea oamenilor. Vezi și [[brynjolfsson-2023-generative-ai-at-work]].

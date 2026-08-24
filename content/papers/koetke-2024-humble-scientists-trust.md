@@ -25,3 +25,7 @@ rasa/etnia omului de știință.
   scientist, belief in their research, intentions to follow their research-based recommendations." [abstract]
   _(trad.) a descrie un om de știință ca înalt (vs. scăzut) în modestie intelectuală a crescut încrederea percepută în
   el, credința în cercetarea lui, intenția de a-i urma recomandările._
+
+## Tradus pentru Razvan
+
+Aceasta e proba pentru afirmația contra-intuitivă din filozofie-214: că a recunoaște „nu sunt 100% sigur de nimic, dar asta e cel mai aproape de adevăr pe cât am fost vreodată" construiește MAI multă încredere, nu mai puțină. Experimentul arată că modestia intelectuală crește încrederea percepută și disponibilitatea de a urma recomandările — exact „oamenii care caută soluții" pe care Razvan spune că vrea să-i atragă, în opoziție cu cei care caută salvatori infailibili.

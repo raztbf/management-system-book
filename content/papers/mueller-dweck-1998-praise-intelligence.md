@@ -11,6 +11,35 @@ tip-studiu: 6 studii experimentale (elevi)
 
 # Praise for Intelligence Undermines (Mueller & Dweck)
 
+## 🔴 AVERTISMENT — NU CITA REZULTATUL CA STABILIT (adăugat aug. 2026)
+
+**Aceasta e lucrarea în cea mai proastă stare din tot corpusul Dweck.** Trei probleme, în ordinea gravității:
+
+1. **Testul GRIM.** Statisticianul Nick Brown a aplicat testul GRIM (care verifică dacă o medie raportată
+   e matematic posibilă la un anumit număr de subiecți) pe această lucrare și a găsit că **17 din cele 50
+   de medii raportate sunt imposibile matematic.** A găsit și excluderi de participanți neraportate și
+   erori de introducere a datelor. **Dweck a recunoscut erorile.** (BuzzFeed News, Tom Chivers,
+   14 ianuarie 2017.)
+2. **Replicare eșuată, mare și apropiată.** Li & Bates (2019), *Journal of Experimental Psychology:
+   General* 148(9), 1640–1655, n = 624 de copii chinezi de 9–13 ani: *„Study 1 closely replicated Mueller
+   and Dweck (1998)… **but not with any of the 8 motivation and attribution measures used by Mueller and
+   Dweck (1998): mean p = .48.**"*
+3. **Contextul mai larg.** Face parte din stratul de cercetare growth-mindset care a luat cele mai multe
+   daune. Macnamara & Burgoyne (2023), *Psychological Bulletin* 149(3–4): 63 de studii, N = 97.672,
+   **d̄ = 0,05, nesemnificativ după corecția pentru bias de publicare**; iar la cele mai bune 6 studii,
+   d̄ = 0,02.
+
+**Ce se poate folosi în continuare, în siguranță:** distincția conceptuală dintre lauda adresată persoanei
+și cea adresată comportamentului rămâne o idee utilă și e susținută independent în alte părți. **Ce nu se
+mai poate folosi: cifrele acestei lucrări, și afirmația că efectul e demonstrat experimental aici.**
+
+**Ce e solid în corpusul Dweck și se poate cita liber:** cercetarea din anii '70–'80 despre tiparele
+helpless vs. mastery — Diener & Dweck (1978, 1979/1980), replicat independent de Hokoda & Fincham (1989),
+*European Journal of Social Psychology* 19(6), 555–563. Și distincția learning goals / performance goals
+din Elliott & Dweck (1988). **Fenomenul, nu tratamentul.**
+
+---
+
 ## Ce spune (abstract)
 
 Studiul fondator al „laudă comportamentul, nu persoana": contrar credinței populare, lauda pentru

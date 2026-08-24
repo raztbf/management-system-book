@@ -26,3 +26,7 @@ presupuneri.
   _(trad.) Patru studii au examinat umilința intelectuală — gradul în care oamenii recunosc că propriile credințe ar putea fi greșite. [...] umilința intelectuală a fost asociată cu deschiderea, curiozitatea, toleranța la ambiguitate și dogmatismul scăzut._
 * „People high in intellectual humility were more attuned to the strength of persuasive arguments than those who were low." [abstract]
   _(trad.) Oamenii cu umilință intelectuală înaltă erau mai atenți la forța argumentelor persuasive decât cei cu umilință scăzută._
+
+## Tradus pentru Razvan
+
+Susține direct eseul din filozofie-214 despre smerenia intelectuală. Razvan descrie cum și-a „separat identitatea de gânduri" și cum a devenit atent la DOVEZI, nu la argumente — iar Studiul 4 arată exact asta: oamenii smeriți intelectual sunt mai sensibili la forța argumentelor, nu la cine le spune. Iar faptul că nu-i judecă drept „dat din colț în colț" pe cei care își schimbă părerea validează citatul lui Keynes pe care îl invocă: „când dovezile se schimbă, îmi schimb părerea".

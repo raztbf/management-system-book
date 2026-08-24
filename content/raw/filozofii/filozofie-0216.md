@@ -1,0 +1,162 @@
+Astăzi fac 39 de ani. Vreau să mulțumesc soției mele, părinților mei, socrilor mei și prietenilor apropiați care au făcut călătoria de până în prezent una extraordinară.
+
+Mai jos am adunat o listă de citate din scrierile mele care sper să inspire, să pună pe gânduri, să schimbe ceva... oricât de mic în fiecare dintre voi:
+
+- Lauda adresată persoanei conduce la aroganță. Lauda adresată comportamentului conduce la repetare.
+- Doar sistemele haotice dau naștere oamenilor indispensabili. Iar oamenii indispensabili nu pot fi manageriați.
+- Într-un context cu resurse limitate, inovația înflorește.
+- Am fost sărac și fericit. Am fost sărac și mizerabil. Am fost bogat și fericit. Și am fost bogat și mizerabil. Fericirea și prosperitatea sunt două abilități foarte diferite.
+- Eroii au valoare doar în contextul unei tragedii. De asta, oamenii care își extrag semnificația din rolul de erou nu pot avea parte de o viață liniștită.
+- Dacă oamenii te urmează pentru că ai mereu dreptate, nu ești un lider... ești un guru.
+- Atunci când ți-ai dat seama că iubești drumul mai mult decât destinația este momentul în care știi că ți-ai găsit pasiunea.
+- Ai mare grijă cine devii pe drumul către visurile tale. Pentru că aceea este persoana alături de care va trebui să îți trăiești restul vieții.
+- Drumul simplității este prin pădurea complexității.
+- Nebunia și performanța merg mână în mână. Nu o să găsești oameni normali și remarcabili.
+- Succesul este mai mult o problemă de consecvență decât de inteligență.
+- Păstrarea obiectivelor realizate este la fel de importantă ca atingerea lor, însă nimeni nu a cumpărat vreodată un curs de menținere a obiectivelor.
+- Claritatea succede acțiunea, nu o precede.
+- Vrei să îi vezi caracterul... dă-i putere. Vrei să îi vezi inteligența... dă-i probleme. Vrei să îi vezi disciplina... dă-i durere.
+- Punctualitatea este prima și cea mai simplă formă de disciplină.
+- Falimentul nu este altceva decât o modalitate mai scumpă de a invalida o idee de afaceri.
+- Niciodată... pentru nimic... nu merită să păstrezi un nesimțit genial.
+- Drumul excelenței este bântuit de fantomele incompetenței.
+- Secretul fericirii nu este o viață fără probleme. Este una în care tu îți alegi problemele.
+- Primii 80% din cerneala unui pix vor scrie gunoaie. Ultimii 20% vor scrie lucruri geniale.
+- Experiența pe care clienții o au cu brandul tău este în mâinile oamenilor pe care îi plătești cel mai puțin. Așa că ar fi bine să ai procese foarte bune.
+- Învățatul face parte din job, nu din timpul liber.
+- Oamenii reacționează mult mai bine la micșorări de discount decât la măriri de preț.
+- Managerii și copiii incompetenți au aceeași cauză: lideri care rezolvă problemele pentru ei!
+- Oamenii imaturi vor ca viața să fie corectă, cei maturi vor să fie frumoasă.
+- Fundamentul productivității nu este „Cum lucrezi”, ci este „La ce lucrezi”.
+- Investitorii buni nu caută oportunități, ci antreprenori capabili.
+- Atunci când ceri feedback, majoritatea oamenilor nu îți spun ce cred ei. Îți spun ceea ce își imaginează că ar crede alții.
+- Caută cauzele cauzelor și vei găsi fundamentele.
+- Îmbunătățirea este, de multe ori, mai profitabilă decât reinventarea.
+- Atunci când nu ai sisteme, ai nevoie de mulți șefi.
+- Antreprenorii care subminează autoritatea managerilor sunt meniți să lucreze cu oameni mediocri.
+- Recunoașterea greșelii nu înseamnă asumarea ei. Asumarea greșelii înseamnă acceptarea consecințelor. Doar greșeala asumată ar trebui să fie pe jumătate iertată.
+- Când angajații nu își cunosc responsabilitățile, nu pot lua decizii. Când nu pot lua decizii, va trebui să le iei tu pentru ei.
+- Problema nu este că oamenii tăi greșesc. Problema este că nu își rezolvă singuri greșelile.
+- Dacă o persoană nu a reușit să îți demonstreze abilitățile ei în primele 3 luni, de cele mai multe ori nu va reuși să ți le demonstreze nici în următorii 2 ani.
+- Nu ești nebun dacă mergi la psiholog. Ești nebun pentru că nu mergi.
+- Oamenii nu vor să cumpere ieftin. Sunt obligați să cumpere ieftin. Este o foarte mare diferență.
+- Abilitatea de a ignora problemele care nu blochează creșterea este unul dintre secretele succesului în viață și în business.
+- Șansele să calci în rahat cresc proporțional cu numărul de pași pe care îi faci zilnic. De asta norocul urmărește oamenii consecvenți.
+- Unii renunță la școală ca să scape de educație. Alții renunță la școală ca să accelereze educația.
+- Statul degeaba este o odihnă de foarte proastă calitate.
+- Cei care uită faptul că nu sunt niciodată obligați să dea un răspuns pe loc sunt meniți să ia decizii în defavoarea propriei persoane.
+- După 5 interviuri cu oameni slabi... unul mediocru pare extraordinar.
+- Micromanagementul suplinește lipsa de claritate într-un sistem.
+- Nu am o problemă să se schimbe politicienii la fiecare 4 ani. Am o problemă când se schimbă viziunea la fiecare 4 ani.
+- Dictatura fură libertatea și demnitatea oamenilor. Democrația însă fură viziunea pe termen lung.
+- Dacă vrei să afli prioritățile reale, scurtează termenul-limită.
+- Planifică-ți să eșuezi și vei scăpa de frică.
+- Să fii matur înseamnă să realizezi că este responsabilitatea ta, chiar dacă nu este vina ta.
+- Nu doar antreprenoriatul îți oferă libertate. Orice abilitate dusă la nivel de măiestrie îți poate oferi același lucru.
+- Majoritatea antreprenorilor nu au angajați, ci au asistenți. Angajații produc rezultate fără să consume timpul antreprenorilor. Asistenții cresc productivitatea antreprenorilor.
+- Nu este despre a renunța la control. Este despre a avea control fără micromanagement.
+- Orice pasiune se transformă într-o corvoadă atunci când o faci până la durere.
+- Măiestria este acea simplitate care vine imediat după complexitate. Prostia este acea simplitate care vine imediat după ignoranță.
+- Voința este ca Dacia 1300. Te bucuri când pornește, dar nu știi când sau unde te lasă.
+- Săptămâna normală de lucru (de luni până vineri) a fost creată într-o lume în care 90% din muncă era fizică. Acea lume nu mai există.
+- Scopul testimonialelor este să rezolve obiecții, nu să îți gâdile egoul.
+- Să vrei drepturi egale este normal. Să vrei să faci toți oamenii egali... este o idioțenie.
+- Majoritatea este de acord că lipsa libertății încătușează spiritul oricărui om. Însă ceea ce nu vor să accepte este că prea multă libertate face exact același lucru.
+- Ceea ce nu se verifică, nu se întâmplă.
+- Să te iubești pe tine înseamnă să faci mai multe pentru „tine din viitor”, decât faci pentru „tine din prezent”.
+- Succesul unei persoane va fi mereu limitat de cantitatea de adevăr pe care poate să o tolereze.
+- Toți oamenii au potențial. Acesta este motivul pentru care potențialul nu este un criteriu în recrutarea oamenilor.
+- Am trecut de la un management dictatorial la unul în care toată lumea trebuie să fie de acord cu fiecare decizie. Niciunul nu funcționează.
+- Nimeni nu vrea să fie tras la răspundere de un prieten. Clarifică rolul din care vorbești cu angajații tăi.
+- Câteodată este de ajuns doar să fii de ajutor. Nu trebuie toți să schimbe lumea.
+- Ai 10 ani de experiență sau 1 an de experiență repetat de 10 ori?
+- Evaluezi un manager după performanța echipei sale, nu după propriile rezultate.
+- Predictibilitatea este finanțatorul creativității.
+- Oamenii sunt ciudați. Vor ceea ce nu au din abundență. Iar atunci când reușesc să aibă, își doresc ce era înainte.
+- Liderii și manipulatorii folosesc aceleași tehnici. Diferența stă în intenție.
+- Nu este un semn bun atunci când o societate confundă ceea ce este veridic cu ceea ce este popular.
+- Cel mai nerezonabil lucru este să fii consecvent pe termen lung în lucrurile simple.
+- Cele mai mari cadouri în viață mi-au fost făcute de cei care mi-au vrut răul.
+- Lipsa muncii nu este o soluție la prea multă muncă.
+- Pasiunea te ajută să începi. Disciplina să termini, iar viziunea să nu te pierzi pe drum.
+- Nu există stil de leadership feminin sau masculin. Există performant sau neperformant.
+- Niciodată în istorie nu s-a renunțat la confort pentru evitarea unei tragedii pe termen lung.
+- Avem nevoie să ne readucem constant aminte faptul că o soluție are valoare doar în contextul în care a fost înțeleasă problema.
+- Evităm evaluările de performanță din același motiv pentru care supraponderalii evită cântarul: arată realitatea cruntă.
+- Designerii buni nu doar iubesc frumosul, ci urăsc urâtul. Și este o diferență importantă.
+- Ceea ce nu poate fi măsurat necesită un efort mai mare pentru verificare și control.
+- Cea mai mare problemă a succesului este că presupunem că ne va transforma în oameni mai buni.
+- Oricine poate face orice în viața asta. Dacă muncește destul de mult, are o cantitate considerabilă de noroc, genetica potrivită, mediul potrivit în care să crească și o sumă importantă de bani de la care să înceapă.
+- Evoluția sau creșterea nu sunt altceva decât redefinirea mediocrului.
+- Consecvența nu poate înflori în solul otrăvit de anticiparea durerii.
+- Este ușor să fii rău. Este ușor să fii bun. Este foarte greu să fii util.
+- Creativitatea utilă se numește inovație. Creativitatea inutilă se numește artă.
+- Rolul de manager nu este un upgrade la rolul de executant. Este un rol diferit, care necesită cu totul alte abilități și competențe.
+- Un business de succes este 95% mediocru și 5% remarcabil.
+- Să aștepți inspirația este la fel cum ai aștepta să calci în rahat stând pe scaun.
+- Sărăcia, pe scurt, este să ai mai puțin decât îți dorești.
+- Generos nu înseamnă gratuit. Înseamnă doar să livrezi mai mult decât ceri înapoi.
+- Nu poți învinovăți ceea ce poți influența.
+- Să alergi într-o clădire în flăcări și să salvezi oameni te face erou. Să implementezi sistemele necesare de control și prevenție pentru a evita orice incendiu te face să pari plictisitor, exagerat, obsesiv.
+- Dezvoltarea personală în trei cuvinte simple: Do Hard Shit!
+- Idealul este o sursă de fericire atunci când este folosit ca inspirație și o sursă de suferință atunci când este folosit ca obiectiv.
+- Un profesionist este omul care, oricum s-ar simți, orice probleme ar avea, livrează la calitatea așteptată de către client.
+- Un om slab nu este nici bun, nici rău, pentru că nu are putere să facă nici bine, nici rău.
+- Dezvoltarea personală se măsoară prin modul în care se schimbă gradul de dificultate în realizarea lucrurilor importante pentru tine.
+- Abilitatea de a alege corect între două rele este esențială pentru succesul în jocul vieții.
+- Nu există angajați buni sau răi. Există angajați care performează conform rolului și angajați care nu.
+- Nimeni nu știe cu adevărat ce gândește până când nu este forțat să comunice.
+- Odihna este parte din proces. Nu este o recompensă.
+- Nu câștigi o dispută prin a-ți demonstra inteligența. Câștigi disputele atunci când reușești să îl faci pe celălalt să se simtă inteligent pentru că este de acord cu tine.
+- Ai grijă să nu ajungi să plătești pentru succes financiar cu ruina vieții personale.
+- Extremismul nu este altceva decât o supra-simplificare a realității în alb sau negru.
+- Nu simțim viteza cu care ne mișcăm. Simțim doar schimbările bruște de viteză.
+- Nu avem obligații în viață. Doar consecințe.
+- Sistemele din companie determină cât de sus poate talentul unei persoane să se exprime.
+- Oprește-te să mai spui „așa sunt eu”. Corect este „așa am repetat să fiu eu”.
+- Repede și mare sunt obiective supraevaluate pentru o afacere. Predictibil, fun și împlinitor sunt subevaluate.
+- Suferința este prețul pe care îl plătim pentru privilegiul iubirii.
+- Nu ne putem pregăti pentru evenimentele care ne vor schimba. Dacă ne-am putea pregăti pentru ele, atunci nu ne-ar mai schimba.
+- Fericirea necesită mai mult efort decât depresia.
+- Perfecțiunea este o formă elegantă de amânare.
+- Omul nu își apără opinia. Își apără imaginea despre sine.
+- Una dintre întrebările critice pe care trebuie să ni le punem ca antreprenori este: Dacă nu va funcționa, vom putea să identificăm cauza?
+- Stima de sine nu e despre încrederea în succes. E despre a fi confortabil cu eșecul.
+- Fermitatea se transformă în agresivitate atunci când respectul față de omul din fața ta dispare.
+- Părinții fără putere financiară oferă copiilor lor un cadou foarte mare: imposibilitatea lor de a-i ajuta să reușească în viață. Părinții cu putere financiară însă oferă copiilor lor un alt cadou: un exemplu despre ce se poate.
+- Omul liber este cel care a câștigat puterea de a-și schimba convingerile cu ușurință, bazându-se pe informație nouă și veridică.
+- Atunci când nu sunt bine cu mine îi judec pe ceilalți.
+- Nu poți cunoaște echilibrul până când nu ai devenit confortabil în ambele extreme.
+- Nu te-ai schimbat deloc nu este un compliment.
+- Oamenii care se lasă conduși sunt la fel de valoroși ca aceia care conduc. Ceilalți, netrebnicii, sunt problema.
+- Atunci când mi-ai făcut rău, întrebarea nu este dacă te voi ierta. Asta voi face oricum. Întrebarea este dacă voi continua relația cu tine.
+- Copiii plâng atunci când îi pui să ia pauză. Adulții... atunci când pauza se termină.
+- De multe ori adevărul supără ambele tabere. Din acest motiv nu este dorit aproape de nimeni.
+- Să spui adevărul în societatea noastră te face automat un om special. Atât de jos este standardul în acest moment.
+- Mulți cred că echilibrul este definit prin a fi undeva la mijloc între două extreme. Problema este că acolo ești doar mediocru, nu neapărat în echilibru.
+- Niciun om nu citește o carte de două ori. Deși cartea rămâne aceeași... omul nu.
+- Niciodată nu vei avea mai puține probleme decât ai acum.
+- Ai nevoie de oameni care să îți echilibreze perspectiva, nu să o inflameze.
+- Un număr foarte mare de opțiuni este o binecuvântare doar atunci când ai cunoștințele și experiența pentru a face alegeri.
+- Depresia este o suferință fără semnificație. De asta cred că dușmanul este lipsa semnificației, nu suferința în sine.
+- Scurtăturile aduc rezultate din viitor în prezent, dar fără creșterea ta personală.
+- Pot să consider de succes omul care a eșuat la propriul vis. Dar nu pot să îl văd ca învingător pe cel care a câștigat lupta altuia.
+- Nu iubim reușita, ci povestea durerii care a precedat-o. Nu suntem dispuși să celebrăm o reușită câștigată fără durere.
+- Nu oamenii sunt cei care ne rănesc — așteptările noastre o fac.
+- Calea către definițiile universale a fost bătătorită doar de cei care și-au pierdut mințile.
+- Fericirea, din perspectiva mea, este o tensiune. Nu un „am”, ci un „vreau și pot”. Este o devenire, nu o dobândire.
+- Nebunia nu este altceva decât o realitate mai distorsionată decât a majorității.
+- Viața e absurdă… și doar nebunii se pot bucura de ea.
+- Nevoia de control este, de fapt, o lipsă de încredere că poți gestiona consecințele.
+- Fără artiști ajungem toți în uniforme. Fără standardizare, toate produsele vor fi în categoria „luxury”.
+- Încearcă să nu îți alegi obiectivele după premiul de la final, ci după peisajele pe care le vei admira pe parcurs.
+- La final, bilanțul nu se face în euro, în procente sau în multipli EBITDA. Se face în dimineți liniștite. În prietenii păstrate. În sănătate neglijată sau îngrijită. În seri în care ai fost cu adevărat prezent.
+- Impunerea de consecințe nu oprește omul să facă rău. Doar întârzie acțiunea până când golul din interior depășește dimensiunea consecinței impuse de societate.
+- Dacă vrei o viață împlinită, nu ai nevoie de maxim. Ai nevoie de optim.
+- Scopul școlii nu ar trebui să fie să îi învețe pe copii. Scopul școlii ar trebui să fie să creeze un context în care copiii să iubească învățarea.
+- Viața ne premiază la început pentru vârfurile noastre și ne taxează mai târziu pentru dezechilibrele noastre.
+- Marja de siguranță nu este pesimism. Este respect pentru realitate.
+- Un om bătut poate fugi de agresor. Dar un om vinovat își cară agresorul în interior.
+- Dacă nu există niciun fapt care te-ar putea face să reconsideri, atunci nu mai ai o idee. Ideea te are pe tine.
+
+Și, în final, mulțumesc vouă. Celor care mă citiți. Care îmi celebrați și îmi criticați munca. Ambele au la fel de multă valoare și îmi permit să cresc. Să evoluez.

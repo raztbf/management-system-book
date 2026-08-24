@@ -25,3 +25,7 @@ INEFICIENTE la a-i împinge pe clienți spre investiții pro-mediu mai mari, dar
   pro-environmental household investments, let alone making those investments." [abstract]
   _(trad.) dovezile noastre sugerează că mesajele de social proof sunt ineficiente la a-i îndemna pe clienți să
   ia în calcul investiții pro-mediu mai mari, darămite să le facă efectiv._
+
+## Tradus pentru Razvan
+
+Susține și afirmația contrarian din fundament-1552: „faptul că te laudă clienții nu înseamnă că asta contribuie la încheierea vânzării". Când miza e mare și incertitudinea ridicată (fix cazul unui studiu de caz B2B), simpla validare socială / testimonial nu mișcă decizia. De aici concluzia lui Razvan: studiul de caz nu trebuie folosit ca mângâiere de ego, ci trebuie să REZOLVE obiecțiile concrete ale clientului. Vezi și [[kanani-2021-uncertainty-barrier-social-commerce]].

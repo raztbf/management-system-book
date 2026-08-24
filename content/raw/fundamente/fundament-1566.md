@@ -1,0 +1,1 @@
+AI-ul se comportă la fel cum ar considera un extraterestru că este normal ca oamenii să se comporte. Dacă nu ai fi trăit printre oameni, ai putea considera că AI-ul este uman. Dacă însă ai trăit printre ei, vezi că diferența este, în același timp, subtilă, cât și enormă.
