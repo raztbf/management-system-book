@@ -466,3 +466,9 @@ And then reality reports back — and reality does not care what you intended, h
 ---
 
 *Next: four sheets of paper, and the question everybody asks on seeing them.*
+
+# DE ADAUGAT LA CARTE
+
+## Povestea de mai jos sustine mult mai bine partea de evaluari bilunare decat sa fie folosita la partea de audit
+
+And you do not need a stadium to produce that state; a calendar will do. In a year-long field experiment inside a large Swedish public organisation, employees randomly assigned to a twelve-week evaluation cycle carried significantly higher stress hormones than colleagues on a six-week cycle — cortisol up by roughly a fifth — while their *self-reported* fatigue showed no difference at all. They could not feel it; their blood could. The researchers' explanation: it is the anticipation that does the damage — the months of quietly rehearsing justifications for a verdict that has not arrived yet, cognitive work that is invisible, exhausting, and directly in the way of the actual job.

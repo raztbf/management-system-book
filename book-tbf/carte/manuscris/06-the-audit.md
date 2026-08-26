@@ -1,26 +1,8 @@
 # 6. The Audit
 
-### Four Sheets of Paper, Three Thousand Companies, and the Question Everybody Asks
+### Four Sheets of Paper, a Thousand Companies, and the Question Everybody Asks
 
 ---
-
-> [!NOTE]
-> In loc de explicatie as putea sa folosesc o poveste cu un audit real
-
-- Utilaje grele si am inlocuit vanzatorii cu experienta cu juniori
-- Lensa... am dat consultatiile gratuite
-- 30 Days MBA
-- Gatit-ul perfect al unui steak
-- Un exemplu din food (restaurante), toata lumea il intelege
-
-Intru in sedinta trimestriala si oamenii incep sa analizeze obiectivele trimestrului trecut. Primul obiectiv... 70% realizat, omul rusinat. Intrebat de ce etc...
-
-Au tras concluzia ca un om nu a fost destul de atent. Altul si-a pierdut focusul. Altul nu a stiu ceva. Altul etc...
-
-Nu i-am lasat sa mearga mai departe... am zis... hai sa vedem ce au in comun cei care au indeplinit obiectivele si cei care nu...
-
-TRALALALAAAA GENIAL
-
 
 ### 1
 
@@ -148,11 +130,11 @@ I audited my own system.
 
 The spirit of it matters: I was not hunting for a flaw, and I had no thesis. Thousands of companies were running something I had built, and I wanted to know which parts of it carried weight and which parts were decoration — the housekeeping you eventually owe anything you have been doing for fifteen years.
 
-I ran the audit across **three thousand and twenty-three companies** — essentially the entire population using the full system, not a sample and not a flattering selection. And the first measurement was the simplest one available: of all the objectives set in all those quarterly meetings, how many were achieved?
+I ran the audit across **one thousand and twenty-four companies** — drawn from the roughly three thousand that were running the full system. And the first measurement was the simplest one available: of all the objectives set in all those quarterly meetings, how many were achieved?
 
 **Fifty-six percent. Forty-four percent were not.**
 
-I want to describe my reaction to that number honestly: I had none. Fifty-six percent, across three thousand real companies with real markets, is respectable, and every consultant alive carries ready-made absolution for the other forty-four — stretch goals are supposed to be missed; seventy percent attainment is the healthy range. I had taught those absolutions myself. I noted the figure and moved to the next item.
+I want to describe my reaction to that number honestly: I had none. Fifty-six percent, across a thousand real companies with real markets, is respectable, and every consultant alive carries ready-made absolution for the other forty-four — stretch goals are supposed to be missed; seventy percent attainment is the healthy range. I had taught those absolutions myself. I noted the figure and moved to the next item.
 
 And then, days later, for reasons I still cannot fully explain, I went back. Not for a better headline number — for a different question entirely: **what did the achieved objectives have in common with each other? And what did the missed ones share?**
 
@@ -164,7 +146,7 @@ I cut the two piles by every variable I could think of — industry, company siz
 
 Where the method existed, it was applied, and the objective took the credit. Where it did not exist, the objective sat in a document for ninety days, generated anxiety, and then generated an explanation.
 
-> **In three thousand companies, an objective never once produced a method.**
+> **In more than a thousand companies, an objective never once produced a method.**
 
 The first chapter of this book drew a line between a result and a cause — a result is what happened, a cause is what makes it happen again — and it took me until that spreadsheet to see which side of the line my life's instrument sat on. An objective is a **result written in advance.** It belongs to the same family as the thing it is supposed to produce, which is exactly why it cannot produce it.
 
@@ -178,7 +160,7 @@ One instrument. Two grounds. Two entirely different outcomes — and, as it took
 
 ### 7
 
-My first instinct was that I had made an error somewhere, and I recommend that instinct — but three thousand and twenty-three companies is not a sample size that produces accidents of that magnitude. My second instinct was to find out whether anybody had seen this before me.
+My first instinct was that I had made an error somewhere, and I recommend that instinct — but one thousand and twenty-four companies is not a sample size that produces accidents of that magnitude. My second instinct was to find out whether anybody had seen this before me.
 
 Somebody had. In 1987 the *Journal of Applied Psychology* published a meta-analysis of more than a hundred goal-setting studies, and found that the effect of goals falls to roughly half on complex tasks — business simulations, scientific and engineering work — because, in the authors' own explanation, on complex work everything depends on whether the person can discover an appropriate strategy. The strategy is the method. And the third author on that paper is **Edwin A. Locke** — the man who, with Gary Latham, founded goal-setting theory. Eighteen years later Latham himself put it beyond misreading: a performance goal *should not be set until an employee has the knowledge to attain it.* The founders had published the limit of their own instrument, in plain sight, decades before my spreadsheet. **What travelled was the part that fit on a slide.**
 
