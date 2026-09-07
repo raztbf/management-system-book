@@ -17,7 +17,8 @@ Doar capitole terminate, în ordinea în care se citesc.
 | [03 — The Vision](manuscris/03-the-vision.md) | 7.329 | Buzz Aldrin, treizeci și nouă de ani, se întoarce de pe Lună |
 | [04 — The Machine](manuscris/04-the-machine.md) | 7.676 | Doi frați cumpără o firmă de imobiliare falimentară și o botează după un râu |
 | [05 — The Anatomy](manuscris/05-the-anatomy.md) | 6.813 | Doi frați închid un restaurant profitabil ca să deseneze bucătăria cu creta |
-| [06 — The Audit](manuscris/06-the-audit.md) | 6.707 | Direct în cele patru fișe — și întrebarea pe care o pune oricine le vede: „de ce nu punem pur și simplu obiective?" |
+| [06 — The Audit](manuscris/06-the-audit.md) | 9.939 | Cazul purtător: lanțul de restaurante cu 78% creștere anuală și întâlnirea care s-a ținut de două ori |
+| [07 — Discovery](manuscris/07-discovery.md) | 6.659 | Casa plutitoare de pe Potomac, atelierul de biciclete — și field guide-ul: 12 experimente reale din departamentele „exceptate" |
 
 **Total: ~47.000 de cuvinte.** Circa 175 de pagini.
 

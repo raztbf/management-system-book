@@ -242,3 +242,45 @@ Research făcut la momentul scrierii (Wikipedia: Kremer prize, MacCready Gossame
 **Proveniență: risc mediu-scăzut.** Povestea circulă în cercurile de design thinking (eseul lui Aza Raskin, 2012, „You are solving the wrong problem") — nu am folosit încadrarea lui („wrong problem"), ci unghiul criză/puzzle: *ce înseamnă o prăbușire* decide în ce stare poți ataca problema. Nu e anecdota-semnătură a niciunei cărți mari de business.
 
 ⚠️ **Coliziune de domeniu de urmărit:** capitolul Discovery e planificat să deschidă cu Langley vs. frații Wright — tot aviație, tot „iterare ieftină bate pariul mare". Diferențiere la scrierea cap. 8: Wright = instrumentul (tunelul) și neîncrederea în datele moștenite; Condor = costul eșecului determină starea psihologică. Dacă la lectura integrală cele două sună la fel, candidat de schimb pentru cap. 8 sau reformulare.
+
+### ADDENDUM — cap. 6 „The Audit" (versiunea pe caz purtător, 27 aug 2026)
+
+| Element | Sursă | Status |
+|---|---|---|
+| Cazul restaurantelor (toate detaliile, cifrele fișelor, dialogurile) | experiența lui Răzvan, `raz/output-audit.md` | ✅ sursă primară proprie |
+| Studiul propriu: 1.024 din ~3.000 de companii, 56/44, 94/88 | canonic (directia-caz-purtator.md) | ✅ |
+| Simularea 1-din-61 (Seijts & Latham) | verificat în rundele anterioare | ✅ |
+| Jordet — penalty-uri, superstaruri, grăbire/evitare privire | redat calitativ, fără procente | ✅ (fără cifre) |
+| **Productive failure** — Sinha & Kapur 2021, *Review of Educational Research*: 53 de studii, 166 de comparații, >12.000 de participanți; efect moderat (g≈0,36) pentru problemă-întâi-teorie-apoi, pe înțelegere conceptuală și transfer | verificat pe web 27 aug 2026 | ✅ redat calitativ în text |
+| **Paradoxul Abilene** — Jerry B. Harvey, 1974, *Organizational Dynamics*; detaliile reale (Coleman, Texas, 53 de mile, căldură, cina la cafenea) | clasic, creditat Harvey în text | ✅ |
+| Andrew Wiles (conacul întunecat, 7 ani) — menționat scurt | ⚠️ rămâne flag-ul de verificare verbatim din addendumul anterior (aici doar parafrazat) | ✅ |
+| 30 Days MBA (2.000/1.100/600 → 8.000 → 20.000+) | brieful lui Răzvan | ✅ |
+
+✅ REZOLVAT (28 aug): coda inventată a fost înlocuită cu rezultatele reale furnizate de Răzvan (meniu: −8% vânzări / +15% profit; influencer: locație sub standard 2 ani → top 3 în luna a 2-a, 30% după recuperarea costurilor, experiment deschis încă un trimestru). Atribuirea ipotezelor și detaliile de scenă au trecut de review-ul lui Răzvan fără obiecții.
+
+### ADDENDUM — cap. 7 „Discovery" (draft-exemplu, 3 sep 2026)
+
+| Element | Sursă | Status |
+|---|---|---|
+| Langley/Wright (houseboat, $50k, 2 prăbușiri în 9 săpt., tunel oct. 1901, ~200 forme/~50 formale, Smeaton 0,005→0,0033, 12 sec/120 ft, a 4-a 59 sec, 1905: 39 min) | `raz/stories/05-discovery-extra.md` #44, verificată | ✅ (⚠️ din fișă: suma Smithsonian + nr. exact aripi de reverificat înainte de tipar) |
+| Pixar (Goldman „Nobody knows anything", 11 filme 1995–2010, „all of our movies suck at first", Braintrust fără autoritate, dailies) | fișa #45 | ✅ Catmull citat explicit în text („he writes in his book") |
+| Kremer/Gossamer Condor | audit-surse (addendum aug. 2026), verificat atunci pe surse | ✅ prima folosire în manuscris |
+| Skunk Works (cortul de circ, fabrica urât mirositoare, XP-80 în 143 de zile) | dosar povesti-candidate-cap6 §F, verificat | ✅ |
+| Bank of America (TV în sucursale: 32%→15% test, control 15%→26%) | dosar §F | ✅ (⚠️ un singur cronicar — flag existent în dosar) |
+| 1 din 5 intervenții semnificative ineficace în producție | dosar (2.766 experimente) | ✅ |
+| Edison + Booking.com | rechemate scurt din cap. 1, unghi nou (cadență/cost) | ✅ |
+| Experimentele restaurantelor (meniu, influencer) | `raz/output-audit.md` + cifrele aprobate | ✅ |
+
+⚠️ **RECONSTRUIT DE AI, DE CONFIRMAT DE RĂZVAN:** detaliile de design ale experimentului cu meniul — ipoteza exactă („profit +≥10%, vânzări −≤10%, 8 săptămâni"), lista de KPI-uri, „forty minutes" de completare a fișei. Cifrele REZULTATELOR (−8%/+15%) sunt cele date de Răzvan; pragurile ipotezei sunt plauzibile dar inventate.
+
+### ADDENDUM — cap. 7 „Discovery" v2 cu Field Guide (5 sep 2026)
+
+Adăugate față de v1 (toate verificate pe web 4 sep, detalii în `atlas-experimente-departamente.md`):
+Filet-O-Fish/Hula Burger (promovată în narativ §5) · Kohl's · UPS/ORION (etichetat „pilot, not lab
+trial") · Ctrip/Bloom QJE 2015 · Microsoft Japonia (etichetat explicit în text: „one month, no control
+group... Level 1 result") · Google interviuri/rule of four · Project Oxygen · Pay to Quit (etichetat:
+„Amazon has published no numbers... file the outcome as unverified") · HMRC/BIT · Progressive ·
+Zara · Bing · Intuit Fasal.
+Format field guide: mini-fișe cu 4 rânduri (Hypothesis/Test/Result/Decision) — NUMAI date reale,
+fără fișe complete reconstruite. Fișa completă demonstrativă = doar meniul restaurantelor (a lui Răzvan).
+⚠️ Nerezolvat din v1: pragurile ipotezei meniului rămân reconstruite de AI (de confirmat).

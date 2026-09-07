@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vivliostyle-theme-carte": "file:../../../../../dotfiles/.config/nvim/book-preview/theme"
+  }
+}
